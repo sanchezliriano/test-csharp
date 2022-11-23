@@ -1,0 +1,15 @@
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/bin/Debug/net7.0/Practicas
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/bin/Debug/net7.0/Practicas.deps.json
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/bin/Debug/net7.0/Practicas.runtimeconfig.json
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/bin/Debug/net7.0/Practicas.dll
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/bin/Debug/net7.0/Practicas.pdb
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/Practicas.csproj.AssemblyReference.cache
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/Practicas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/Practicas.AssemblyInfoInputs.cache
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/Practicas.AssemblyInfo.cs
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/Practicas.csproj.CoreCompileInputs.cache
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/Practicas.dll
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/refint/Practicas.dll
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/Practicas.pdb
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/Practicas.genruntimeconfig.cache
+/Users/alexandro/Desktop/Clases de CSharp/Practicas/Practicas/obj/Debug/net7.0/ref/Practicas.dll
